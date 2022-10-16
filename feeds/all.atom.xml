@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>MyNews</title><link href="https://harukoya.github.io/harukoya.github.io/" rel="alternate"></link><link href="https://harukoya.github.io/harukoya.github.io/feeds/all.atom.xml" rel="self"></link><id>https://harukoya.github.io/harukoya.github.io/</id><updated>2022-10-16T00:00:00+09:00</updated><entry><title>最初の記事</title><link href="https://harukoya.github.io/harukoya.github.io/first-article.html" rel="alternate"></link><published>2022-10-16T00:00:00+09:00</published><updated>2022-10-16T00:00:00+09:00</updated><author><name>harukoya</name></author><id>tag:harukoya.github.io,2022-10-16:/harukoya.github.io/first-article.html</id><summary type="html">&lt;p&gt;はじめての記事です&lt;/p&gt;</summary><content type="html">&lt;h2&gt;祝 ブログ開設&lt;/h2&gt;
+&lt;p&gt;はじめまして。
+こんにちは。&lt;/p&gt;</content><category term="ニュース"></category><category term="Blog"></category></entry></feed>
